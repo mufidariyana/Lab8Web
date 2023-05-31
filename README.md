@@ -15,7 +15,7 @@
 <img src="./ss/ssss.png" style="margin: auto; width:600px;">
 
 ### Admin
-<img src="./ss/sssss.png" style="margin: auto; width:600px;">
+<img src="./ss/sssss.jpeg" style="margin: auto; width:600px;">
 
 ### Menambahkan Artikel
-<img src="./ss/ssssss.png" style="margin: auto; width:600px;">
+<img src="./ss/ssssss.jpeg" style="margin: auto; width:600px;">
